@@ -53,7 +53,7 @@
 ![Idletoes](18.idletoes.png)
 
 ## 19. Igvita Desert
-![Igvita Desert](19)
+![Igvita Desert](19.igvita-desert.png)
 
 ## 20. Igvita Light
 ![Igvita Light](20.igvita-light.png)
@@ -87,3 +87,63 @@
 
 ## 30. Neopolitan
 ![Neopolitan](30.neopolitan.png)
+
+## 31. Novel
+![Novel](31.novel.png)
+
+## 32. Ocean
+![Ocean](32.ocean.png)
+
+## 33. Papirus Dark
+![Papirus Dark](33.papirus-dark.png)
+
+## 34. Pro
+![Pro](34.pro.png)
+
+## 35. Red Sands
+![Red Sands](35.red-sands.png)
+
+## 36. Seafoam Pastel
+![Seafoam Pastel](36.seafoam-pastel.png)
+
+## 37. Solarized Dark
+![Solarized Dark](37.solarized-dark.png)
+
+## 38. Solarized Light
+![Solarized Light](38.solarized-light.png)
+
+## 39. Solarized Darcula
+![Solarized Darcula](39.solarized-darcula.png)
+
+## 40. Sundried
+![Sundried](40.sundried.png)
+
+## 41. Symfonic
+![Symfonic](41.symfonic.png)
+
+## 42. Teerb
+![Teerb](42.teerb.png)
+
+## 43. Terminal Basic
+![Terminal Basic](43.terminal-basic.png)
+
+## 44. Thayer
+![Thayer](44.thayer.png)
+
+## 45. Tomorrow
+![Tomorrow](45.tomorrow.png)
+
+## 46. Tomorrow Night
+![Tomorrow Night](46.tomorrow-night.png)
+
+## 47. Twilight
+![Twilight](47.twilight.png)
+
+## 48. Vaughn
+![Vaughn](48.vaughn.png)
+
+## 49. X Dotshare
+![X Dotshare](49.x-dotshare.png)
+
+## 50. Zenburn
+![Zenburn](50.zenburn.png)
