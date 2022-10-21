@@ -5,7 +5,8 @@ This script applies color theme on saved sessions in PuTTY
 1. Select a color scheme [here](images/readme.md)
 2. Double click on reg-file for applying theme on news PuTTY sessions 
 3. Drag'n'Drop reg-file on `_puttycolor.js` in Windows Explorer for applying theme on saved PuTTY sessions
-4. Enjoy it!
+4. Make sure the "Use system colours" option is checked in "Windows->Colours" page of PuTTY configutation.  
+5. Enjoy it!
 
 
 
